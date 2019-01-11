@@ -1,0 +1,19 @@
+[Process]
+Is the Layout based on the standard process template?
+All the Stages are in English?
+All Hard Codes were replaced by Variables
+Is the Process Name according to the developer handbook?
+Are the Environment Variables Names according to the developer handbook?
+Are the Credential Names according to the developer handbook?
+Is the Queue Name according to the developer handbook?
+Is the Line Spacing according to the developer handbook?
+Are the Subpages Names according to the developer handbook?
+
+[Objects]
+Are the Actions Names according to the developer handbook?
+All the Actions have descriptions?
+All the Stages are in English?
+All Hard Codes were replaced by Variables?
+Is the Business Object Name according to the developer handbook?
+Is the Application Modeller filled according to the developer handbook?
+Is the Line Spacing according to the developer handbook?
